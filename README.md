@@ -12,14 +12,14 @@ Plataforma de engajamento cívico que torna projetos de lei do Congresso Naciona
 1. **Instalação das dependências:**
    \`\`\`bash
    npm install
-   # ou
+   ou
    yarn install
    \`\`\`
 
 2. **Rodar o servidor de desenvolvimento:**
    \`\`\`bash
    npm run dev
-   # ou
+   ou
    yarn dev
    \`\`\`
 
